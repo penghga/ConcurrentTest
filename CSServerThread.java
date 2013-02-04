@@ -15,7 +15,7 @@ public class CSServerThread {
     /*
      * number of clients
      */
-    public final static int qLen = 3;
+    public final static int qLen = 10;
     
     
     public void CSServerThread(){};
